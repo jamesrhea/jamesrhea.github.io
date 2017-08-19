@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Perspicuous</title>
+    <link>https://jamesrhea.github.com/tags/</link>
+    <description>Recent content in Tags on Perspicuous</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 James Rhea</copyright>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://jamesrhea.github.com/tags/javascript/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://jamesrhea.github.com/tags/learning/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://jamesrhea.github.com/tags/programming/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://jamesrhea.github.com/tags/python/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Writing</title>
+      <link>https://jamesrhea.github.com/tags/technical-writing/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/tags/technical-writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://jamesrhea.github.com/tags/writing/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

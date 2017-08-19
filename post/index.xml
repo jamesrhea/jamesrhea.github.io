@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Perspicuous</title>
+    <link>https://jamesrhea.github.com/post/</link>
+    <description>Recent content in Posts on Perspicuous</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 James Rhea</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adding Value as a Technical Writer</title>
+      <link>https://jamesrhea.github.com/2016/12/adding-value-as-a-technical-writer/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/2016/12/adding-value-as-a-technical-writer/</guid>
+      <description>
+
+&lt;p&gt;Tom Johnson recently reflected on the &lt;a href=&#34;http://idratherbewriting.com/2016/12/20/changing-roles-of-technical-writers/#background&#34; target=&#34;_blank&#34;&gt;tension between increasing technical expertise and focusing on other aspects of technical communications&lt;/a&gt;, such as the tools and processes around writing and publishing.&lt;/p&gt;
+
+&lt;h2 id=&#34;another-frame-adding-value&#34;&gt;Another Frame: Adding Value&lt;/h2&gt;
+
+&lt;p&gt;In part I found his post intriguing because it has to do with constraints. There&amp;rsquo;s never enough time for everything. We have to choose. But then something gets neglected. Or at least that&amp;rsquo;s the way I usually feel. However, a more productive way to frame this problem is to consider how to maximize value added. When framed this way, choices aren&amp;rsquo;t negative, they&amp;rsquo;re about selecting the most beneficial path. So the question is: What adds the most value?&lt;/p&gt;
+
+&lt;p&gt;An important caveat here is not to over-analyze what constitutes the most beneficial path. I&amp;rsquo;ve found myself stuck in a loop when I ask, &amp;ldquo;This is good, but is there something better I could be doing? What is the best option?&amp;rdquo; At some point, motion is better than analysis, and continuing the analysis is worse than simply selecting a good option. (See also: &amp;ldquo;The perfect is an enemy of the good.&amp;rdquo;)&lt;/p&gt;
+
+&lt;p&gt;In many cases the value added via one path is sufficiently greater than the value added via another path that the choice is easy. That doesn&amp;rsquo;t mean path A is bad. It just means path B is superior.&lt;/p&gt;
+
+&lt;h2 id=&#34;determining-value-added&#34;&gt;Determining Value Added&lt;/h2&gt;
+
+&lt;p&gt;If the better path is the one with more value added, how do we determine whether more value is added by increasing technical expertise or by focusing on other aspects of technical communications? I think much depends on the circumstances. Consider the following cases.&lt;/p&gt;
+
+&lt;p&gt;When a lone writer authors all the documentation at a small company, it&amp;rsquo;s probable that deep technical knowledge could only be obtained by diminishing the quantity of docs written. Since there&amp;rsquo;s a single writer, the effect of fewer docs could be far greater than if that writer were on a team of 20 writers.&lt;/p&gt;
+
+&lt;p&gt;Given a team of 20 writers, the quantity of docs written is likely quite large, so someone on that team had better have serious knowledge of authoring/publishing workflows, information architecture, user feedback analysis, search optimization, and the other tools-based or process-oriented emphases Tom mentions in his post.&lt;/p&gt;
+
+&lt;p&gt;But is deep technical knowledge really what a writer ought to aim for? I disagree with this claim Tom makes: &amp;ldquo;without deep technical knowledge, it&amp;rsquo;s almost impossible to write coherently and intelligently about the product.&amp;rdquo; Tom&amp;rsquo;s questions are about emphasis. I think it&amp;rsquo;s fitting to think about this problem as one of degrees. Writers don&amp;rsquo;t have to be able to single-handedly produce the technical product in order to explain it.&lt;/p&gt;
+
+&lt;p&gt;I wouldn&amp;rsquo;t aim for &lt;em&gt;deep&lt;/em&gt; technical knowledge. I would aim for &lt;em&gt;adequate&lt;/em&gt; technical knowledge, recognizing that what constitutes adequacy may vary by project, and that technical knowledge ought to grow over time due to immersion in the documentation and exposure to the technology and the industry.&lt;/p&gt;
+
+&lt;p&gt;I speculate that the need for writers to have deep technical knowledge diminishes as Tech Comm teams grow in size and as other skills become more important than they are for smaller Tech Comm teams. I&amp;rsquo;m not claiming that deep technical knowledge is useless. I&amp;rsquo;m suggesting that (to frame it negatively) neglecting deep technical knowledge has less severe consequences than neglecting content curation, doc tool set, or workflow considerations.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-of-adding-value&#34;&gt;Example of Adding Value&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been working recently on creating a little tool that, for a given doc article, displays a list of &amp;ldquo;pages that link to this page&amp;rdquo;. It is intended to aid writers as we analyze where to make doc updates/additions when a new software feature is introduced. We have quite a few writers in our company, so this tool will be used by several folks.&lt;/p&gt;
+
+&lt;p&gt;In addition, its technical availability doesn&amp;rsquo;t require anyone to build additional functionality into our publishing platform or add new metadata. This information is already available in the publishing platform&amp;rsquo;s API. I&amp;rsquo;m just exposing that content to the technical communications team members in a way that is easy to view.&lt;/p&gt;
+
+&lt;p&gt;My hope is that this small addition to our doc tool belt will make it easier to understand how the docs fit together. In other words, I&amp;rsquo;m hoping for a good return on my time investment.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Another consideration is whether the knowledge or skills any given writer possesses are such that others in the company could pick up slack if that particular writer fell ill or was away for an extended time. Our team has a schedule that shows who&amp;rsquo;s available to help with particular Tech Comm skills during the holidays, including creating new accounts for access to our docs, escalating or resolving bugs/issues with our publishing platform, and responding to doc inquiries. If a task was not accomplishable due to the absence of a single team member, that would be a problem. Can the same be said for a writer&amp;rsquo;s lack of deep technical knowledge?&lt;/p&gt;
+
+&lt;p&gt;It may sound like I&amp;rsquo;m presuming the answer is &amp;ldquo;No&amp;rdquo; but it&amp;rsquo;s an open question. Perhaps a lack of deep technical knowledge leads to flawed, misleading documentation. That would be a problem. If you work in an industry that requires deep technical knowledge to contribute to the doc set, you should have deep technical knowledge.&lt;/p&gt;
+
+&lt;p&gt;My overall point is that there are sometimes diminishing returns on investing time in an area. And we&amp;rsquo;re always choosing one path over others. The questions are: when or where does that diminishing occur, and what available options maximize the value you can create from where you stand?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ordered Lists and Data Integrity</title>
+      <link>https://jamesrhea.github.com/2016/09/ordered-lists-and-data-integrity/</link>
+      <pubDate>Sat, 17 Sep 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://jamesrhea.github.com/2016/09/ordered-lists-and-data-integrity/</guid>
+      <description>&lt;p&gt;WYSIWYG editors usually allow you to create ordered lists. In HTML, ordered lists look like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;ol&amp;gt;
+    &amp;lt;li&amp;gt;Buy ice cream&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Open ice cream&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Eat ice cream&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;But imagine you want to add a tip after the &amp;ldquo;buy&amp;rdquo; step. In your editor, you might add a line after the first list item, add your tip, and then start the list number where you left off. Here&amp;rsquo;s one way the HTML might look after doing that:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;ol&amp;gt;
+    &amp;lt;li&amp;gt;Buy ice cream&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;div class=&amp;quot;tip&amp;quot;&amp;gt;Bring a cooler!&amp;lt;/div&amp;gt;
+&amp;lt;ol start=&amp;quot;2&amp;quot;&amp;gt;
+    &amp;lt;li&amp;gt;Open ice cream&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Eat ice cream&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what that looks like:
+&lt;ol&gt;
+    &lt;li&gt;Buy ice cream&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;div style=&#34;margin: -1em 0 -1em 3em; padding-left: .5em; background: aliceblue; font-style: italic;&#34;&gt;&lt;p&gt;Bring a cooler!&lt;/p&gt;&lt;/div&gt;
+
+&lt;ol start=&#34;2&#34;&gt;
+    &lt;li&gt;Open ice cream&lt;/li&gt;
+    &lt;li&gt;Eat ice cream&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Perfect, right? Unfortunately, although this might look okay in an editor or even in the resulting web output, the data integrity of the list is broken. When you look at the content in a WYSIWYG editor, what you &lt;em&gt;appear&lt;/em&gt; to have is a single list with a tip connected to the first list item. But what you &lt;em&gt;actually&lt;/em&gt; have is two unrelated lists with an unrelated tip between them. Why is this a problem?&lt;/p&gt;
+
+&lt;p&gt;Consider what happens if you decide you forgot a step. You add one:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;ol&amp;gt;
+    &amp;lt;li&amp;gt;Find ice cream&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Buy ice cream&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;div class=&amp;quot;tip&amp;quot;&amp;gt;Bring a cooler!&amp;lt;/div&amp;gt;
+&amp;lt;ol start=&amp;quot;2&amp;quot;&amp;gt;
+    &amp;lt;li&amp;gt;Open ice cream&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Eat ice cream&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Output:&lt;/p&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Find ice cream&lt;/li&gt;
+    &lt;li&gt;Buy ice cream&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div style=&#34;margin: -1em 0 -1em 3em; padding-left: .5em; background: aliceblue; font-style: italic;&#34;&gt;&lt;p&gt;Bring a cooler!&lt;/p&gt;&lt;/div&gt;
+
+&lt;ol start=&#34;2&#34;&gt;
+    &lt;li&gt;Open ice cream&lt;/li&gt;
+    &lt;li&gt;Eat ice cream&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now there are two number twos and no number four. Instead a better approach is to integrate the tip into the list item it&amp;rsquo;s associated with. Then let the ordered list auto-number all the way through:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;ol&amp;gt;
+    &amp;lt;li&amp;gt;Find ice cream&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Buy ice cream
+        &amp;lt;div class=&amp;quot;tip&amp;quot;&amp;gt;Bring a cooler!&amp;lt;/div&amp;gt;
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Open ice cream&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Eat ice cream&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Output:&lt;/p&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Find ice cream&lt;/li&gt;
+    &lt;li&gt;Buy ice cream
+&lt;div style=&#34;margin-left: 1em; padding-left: .5em; background: aliceblue; font-style: italic;&#34;&gt;Bring a cooler!&lt;/div&gt;&lt;/li&gt;
+    &lt;li&gt;Open ice cream&lt;/li&gt;
+    &lt;li&gt;Eat ice cream&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This approach prevents accidental misnumbering. It also makes it possible to do potentially useful things, such as query your content set to find out the average number of steps in your procedures.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
